@@ -1,0 +1,51 @@
+.accordian-div {
+  background: linear-gradient(to left, #6a79ff, #4250ff);
+  color: white;
+  padding: 1.8rem;
+  border-radius: 2rem;
+  margin-top: 1rem;
+}
+
+.accordion-box-border {
+  border-radius: 2.4rem !important;
+}
+
+.accordion-heading {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.accordion-list-item {
+  text-align: left;
+  font-size: 1.1rem;
+}
+
+.scholarship-title {
+  color: white;
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+
+.scholarshipTitleBox {
+  font-size: 1.8rem;
+  color: #000;
+  font-weight: 700;
+  background-color: #efefef;
+  width: 70%;
+  border-radius: 1rem;
+  padding: 0.8rem 5rem;
+  border: 2px solid #000;
+}
+
+.verify-details-text {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.verify-details-button {
+  font-size: 1.1rem;
+  font-weight: 600;
+  display: flex;
+  justify-content: left;
+  /* padding-: 1rem; */
+}
